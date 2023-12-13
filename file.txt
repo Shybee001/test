@@ -1,0 +1,8 @@
+fopen examplefopen example
+fopen example
+1 5 7 n
+1 5 7 n
+1 5 7 n
+1 5 7 n
+1 5 7 n
+1 5 7 n
